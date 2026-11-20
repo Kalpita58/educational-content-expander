@@ -1,3 +1,5 @@
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/td4m55spwm/badge.svg)](https://msrit.ask.thili.ai/b/td4m55spwm)
+
 # Educational Content Expander
 
 A small, local command-line tool that continues a short educational phrase or bullet point using a count-based n-gram language model. It reads UTF-8 text files from a corpus directory, preprocesses them, trains a trigram model by default, and samples a continuation with add-k smoothing.
